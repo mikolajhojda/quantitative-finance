@@ -7,4 +7,4 @@ This repository was created to document my process of learning quantitative fina
 * <a href="https://github.com/mikolajhojda/quantitative-finance/blob/main/geometric_brownian_motion.ipynb"><b>Geometric Brownian Motion (GBM)</b> simulation for S&P500 index</a>
 
 # Learning resources
-* <a href="https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/>Mathematics with applications in finance</a>
+* <a href="https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013">Mathematics with applications in finance</a>
