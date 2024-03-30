@@ -12,4 +12,4 @@ This repository was created to document my process of learning quantitative fina
 # Learning resources
 * <a href="https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013">Mathematics with applications in finance - MIT OpenCourseWare</a>
 * <a href="https://www.youtube.com/@ritvikmath">ritvikmath - YouTube channel</a>
-* <a href="https://www.datacamp.com/">Datacamp</a>
+* <a href="https://www.datacamp.com/">DataCamp</a>
